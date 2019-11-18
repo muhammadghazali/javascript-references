@@ -1,0 +1,3 @@
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript
+- https://exploringjs.com/impatient-js/toc.html
+- https://javascript30.com/
